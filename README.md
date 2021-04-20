@@ -1,5 +1,7 @@
 # test-push
 
+Install capacitor cli first  
+`npm install @capacitor/core @capacitor/cli`
 
 How to Run
 1. npm install.
